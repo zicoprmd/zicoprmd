@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and other languanges**
 
-- 👨‍💻 All of my projects are available at [zicoprmd](zicoprmd.github.io/linktree)
+- 👨‍💻 All of my projects are available at [zicoprmd](https://zicoprmd.github.io/linktree)
 
 - 💬 Ask me about **react, js, jquery**
 
